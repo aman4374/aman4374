@@ -8,6 +8,7 @@ I'm a Full-Stack Developer and Problem Solver, passionate about building efficie
 InfoSaathi: Empowering users with mentorship programs, automated calls, WhatsApp assistance, and rewards.
 ToDoTrac: Full-stack task management app using React and MongoDB.
 AquaHeal: Estimating water quality to improve global access to clean drinking water.
+<br>
 🧠 Problem Solver:
 Active in coding competitions like LeetCode and GeeksforGeeks, I love cracking tough problems.
 
