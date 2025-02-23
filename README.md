@@ -5,11 +5,15 @@
 I'm a Full-Stack Developer and Problem Solver, passionate about building efficient, user-friendly applications. Currently pursuing BTech in ECM at VIT Chennai, I enjoy tackling complex challenges in Web Development and DSA.
 
 🚀 Projects:
+<br>
 InfoSaathi: Empowering users with mentorship programs, automated calls, WhatsApp assistance, and rewards.
+<br>
 ToDoTrac: Full-stack task management app using React and MongoDB.
+<br>
 AquaHeal: Estimating water quality to improve global access to clean drinking water.
 <br>
 🧠 Problem Solver:
+<br>
 Active in coding competitions like LeetCode and GeeksforGeeks, I love cracking tough problems.
 
 
