@@ -25,7 +25,6 @@ I'm an AI Engineer and Full-Stack Developer with a passion for building robust, 
 <p>
 <b>Tech Stack:</b> Go, React, Docker, WebSocket, JWT, Azure, CI/CD
 </p>
-<a href="https://www.google.com/search?q=https://github.com/aman4374/balkanid-file-vault"><b>View on GitHub</b></a>
 </div>
 </td>
 <td width="50%">
@@ -35,7 +34,6 @@ I'm an AI Engineer and Full-Stack Developer with a passion for building robust, 
 <p>
 <b>Tech Stack:</b> Next.js, MongoDB, Tailwind CSS, WhatsApp API
 </p>
-<a href="https://www.google.com/search?q=https://github.com/aman4374/infosaathi"><b>View on GitHub</b></a>
 </div>
 </td>
 </tr>
@@ -57,7 +55,6 @@ I'm an AI Engineer and Full-Stack Developer with a passion for building robust, 
 <p>
 <b>Tech Stack:</b> Next.js, Tailwind CSS, Shiki.js
 </p>
-<a href="https://www.google.com/search?q=https://github.com/aman4374/devlog"><b>View on GitHub</b></a>
 </div>
 </td>
 </tr>
