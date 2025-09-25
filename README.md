@@ -1,20 +1,67 @@
 
 <p>
-    <img src="https://api.vaunt.dev/v1/github/entities/aman4374/achievements?format=svg&limit=3&raw=true" width="350" />
-</p>
-I'm a Full-Stack Developer and Problem Solver, passionate about building efficient, user-friendly applications. Currently pursuing BTech in ECM at VIT Chennai, I enjoy tackling complex challenges in Web Development and DSA.
 
-🚀 Projects:
-<br>
-InfoSaathi: Empowering users with mentorship programs, automated calls, WhatsApp assistance, and rewards.
-<br>
-ToDoTrac: Full-stack task management app using React and MongoDB.
-<br>
-AquaHeal: Estimating water quality to improve global access to clean drinking water.
-<br>
-🧠 Problem Solver:
-<br>
-Active in coding competitions like LeetCode and GeeksforGeeks, I love cracking tough problems.
+    <img src="https://api.vaunt.dev/v1/github/entities/aman4374/achievements?format=svg&limit=3&raw=true" width="350" />
+
+</p>
+Hi there, I'm Aman Trivedi 👋
+I'm an AI Engineer and Full-Stack Developer with a passion for building robust, scalable, and impactful solutions. Currently pursuing a B.Tech in Electronics and Computer Engineering at VIT Chennai, I thrive on solving complex problems, whether it's developing intelligent systems with AI/ML or creating seamless user experiences with modern web technologies.
+
+🔭 I’m currently working on enhancing my skills in cloud-native development and distributed systems.
+
+🌱 I’m learning Golang for high-performance backend services and exploring advanced concepts in PyTorch.
+
+👯 I’m looking to collaborate on open-source AI projects or innovative web applications.
+
+📫 How to reach me: amantrivedi4374@gmail.com
+
+🚀 My Featured Projects
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">BalkanID File Vault System</h3>
+<div align="center">
+<p>A secure, full-stack file storage and collaboration platform with a cross-user deduplication engine to optimize storage. Built with a secure Go backend, JWT authentication, and real-time updates using WebSockets.</p>
+<p>
+<b>Tech Stack:</b> Go, React, Docker, WebSocket, JWT, Azure, CI/CD
+</p>
+<a href="https://www.google.com/search?q=https://github.com/aman4374/balkanid-file-vault"><b>View on GitHub</b></a>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">InfoSaathi Platform</h3>
+<div align="center">
+<p>A full-stack platform designed to centralize information on 200+ government schemes. Features a WhatsApp bot for automated assistance and a rewards system to drive community engagement and mentorship.</p>
+<p>
+<b>Tech Stack:</b> Next.js, MongoDB, Tailwind CSS, WhatsApp API
+</p>
+<a href="https://www.google.com/search?q=https://github.com/aman4374/infosaathi"><b>View on GitHub</b></a>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">RAG Chatbot for MeitY</h3>
+<div align="center">
+<p>Engineered a Retrieval-Augmented Generation (RAG) chatbot during my internship at the Ministry of Electronics and IT. It accurately retrieves info from 500+ internal documents and uses Whisper for video transcription.</p>
+<p>
+<b>Tech Stack:</b> LangChain, FAISS, PyTorch, Whisper, Tavily AI
+</p>
+<a href="#"><b>(Internal Project)</b></a>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">DevLog Blog Platform</h3>
+<div align="center">
+<p>A performance-optimized developer blog with a Google Lighthouse score of 98. Features Shiki syntax highlighting, light/dark mode, and a fully responsive, mobile-first design for a seamless experience.</p>
+<p>
+<b>Tech Stack:</b> Next.js, Tailwind CSS, Shiki.js
+</p>
+<a href="https://www.google.com/search?q=https://github.com/aman4374/devlog"><b>View on GitHub</b></a>
+</div>
+</td>
+</tr>
+</table>
 
 
 ## 🌐 Socials:
